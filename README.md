@@ -20,8 +20,9 @@ Visual components and Python
 
 
 ## Program:
-```Developed by: DARSHAN S 
-Reg no: 212222100010
+```
+Developed by: M.JAYACHANDRAN 
+Reg no: 212222240038
 ```
 
 ```
